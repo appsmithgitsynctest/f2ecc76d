@@ -13,7 +13,7 @@
       "policies": [],
       "userPermissions": []
     },
-    "pageId": "Page1",
+    "pageId": "crudpage_1 Copy",
     "actionConfiguration": {
       "timeoutInMillisecond": 10000,
       "paginationType": "NONE",
@@ -42,7 +42,7 @@
     "policies": [],
     "userPermissions": []
   },
-  "id": "Page1_SelectQuery",
+  "id": "crudpage_1 Copy_SelectQuery",
   "deleted": false,
-  "gitSyncId": "63be97418825c2413b469d5c_63be974e8825c2413b469d64"
+  "gitSyncId": "63be97418825c2413b469d5c_63be976e8825c2413b469d72"
 }
